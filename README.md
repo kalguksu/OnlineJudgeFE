@@ -28,32 +28,6 @@ npm run dev
 
 실행 이후의 Host의 80번 포트 혹은 443번 포트와 본 서버의 8080 포트와 포트 포워딩을 해주어야 합니다.
 
-## 실행 화면
-
-![image](https://user-images.githubusercontent.com/16822641/45494171-78df7080-b7ab-11e8-80b9-2e42509b099a.png)
-
-![image](https://user-images.githubusercontent.com/16822641/45494216-8f85c780-b7ab-11e8-9736-2872e7dc4ddf.png)
-
-![image](https://user-images.githubusercontent.com/16822641/45494336-c0fe9300-b7ab-11e8-9f47-59b8eaa38d64.png)
-
-## 데모
-
-[교원대 OJ](http://117.17.205.70/)
-
-## 브라우저 지원
-
-+ 인터넷 익스플로러 10 이상 버전을 포함한 다양한 모던 브라우저
-
-## 온라인 저지 백 엔드에 대해서
-
-+ 기본적으로 온라인 저지 백 엔드는 Qingdao University의 Online Judge Server 모듈의 Docker Version을 사용합니다.
-+ 현재 기존의 레거시 코드 한글 패치를 적용한 상황입니다.
-
-## 향후 개발 방향
-
-+ 향후 본 서버에서 추출된 사용자 채점 정보를 이용해 학생들의 수준을 판별하고 분류합니다.
-+ REST API를 활용한 Micro Service 원칙을 철저하게 따릅니다.
-
 ## 오픈소스 라이센스
 
 [MIT](http://opensource.org/licenses/MIT)
